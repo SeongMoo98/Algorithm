@@ -1,0 +1,4 @@
+﻿  ultra.cpp
+C:\Users\rudnf\source\repos\Algorithm_Assignment12\Algorithm_Assignment12\ultra.cpp(34,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rudnf\source\repos\Algorithm_Assignment12\Algorithm_Assignment12\ultra.cpp(69,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Algorithm_Assignment12.vcxproj -> C:\Users\rudnf\source\repos\Algorithm_Assignment12\Debug\Algorithm_Assignment12.exe
