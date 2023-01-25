@@ -1,0 +1,5 @@
+﻿  back.cpp
+C:\Users\rudnf\source\repos\Algorithm_assignment2\Algorithm_assignment2\back.cpp(22,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rudnf\source\repos\Algorithm_assignment2\Algorithm_assignment2\back.cpp(44,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rudnf\source\repos\Algorithm_assignment2\Algorithm_assignment2\back.cpp(54,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Algorithm_assignment2.vcxproj -> C:\Users\rudnf\source\repos\Algorithm_assignment2\Debug\Algorithm_assignment2.exe
