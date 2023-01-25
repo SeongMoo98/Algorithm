@@ -1,0 +1,3 @@
+﻿  time.cpp
+C:\Users\rudnf\source\repos\Algorithm_assignment4\Algorithm_assignment4\time.cpp(67): warning C4715: 'compare': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Algorithm_assignment4.vcxproj -> C:\Users\rudnf\source\repos\Algorithm_assignment4\Debug\Algorithm_assignment4.exe

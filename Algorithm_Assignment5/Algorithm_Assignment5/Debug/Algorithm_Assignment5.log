@@ -1,0 +1,11 @@
+﻿  station.cpp
+C:\Users\rudnf\source\repos\Algorithm_Assignment5\Algorithm_Assignment5\station.cpp(4,57): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\rudnf\source\repos\Algorithm_Assignment5\Algorithm_Assignment5\station.cpp(20,50): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rudnf\source\repos\Algorithm_Assignment5\Algorithm_Assignment5\station.cpp(21,73): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rudnf\source\repos\Algorithm_Assignment5\Algorithm_Assignment5\station.cpp(22,74): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rudnf\source\repos\Algorithm_Assignment5\Algorithm_Assignment5\station.cpp(39,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rudnf\source\repos\Algorithm_Assignment5\Algorithm_Assignment5\station.cpp(40,73): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rudnf\source\repos\Algorithm_Assignment5\Algorithm_Assignment5\station.cpp(41,74): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rudnf\source\repos\Algorithm_Assignment5\Algorithm_Assignment5\station.cpp(70,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rudnf\source\repos\Algorithm_Assignment5\Algorithm_Assignment5\station.cpp(83,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Algorithm_Assignment5.vcxproj -> C:\Users\rudnf\source\repos\Algorithm_Assignment5\Debug\Algorithm_Assignment5.exe
